@@ -1,0 +1,2 @@
+C:\Users\gamem\Documents\GitHub\Unreal-Engine-Test\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\gamem\Documents\GitHub\Unreal-Engine-Test\MyProject\Source\MyProject\MyProject.h
